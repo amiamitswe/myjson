@@ -199,7 +199,8 @@
         }
     ],
 
-    "C_Student": [
+    "sms": {
+    	"C_Student": [
         {
             "name": "Amit Samadder",
             "class": "B.Sc Engineer",
@@ -242,4 +243,5 @@
             "name": "Amit"
         }
     ]
+    }
 }
