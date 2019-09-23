@@ -1,0 +1,23 @@
+{
+    "C-Student": [
+        {
+            "name": "Amit Samadder",
+            "class": "B.Sc Engineer",
+            "passing_year": "2018",
+            "address": "Rajapur, Harta, Wazirpur, Barisal",
+            "mobile":["01917784210","01617784210","01714853911"],
+            "email": ["amiamitswe@gmail.com","amiamitswe@yahoo.com","amiamitswe@hotmail.com"],
+            "img_url":"http://nw.jobsbd.com/images/jobseeker/resume/1521124724-398677.jpg?rand=1560766388"
+        },
+        {
+            "name": "Abir Samadder",
+            "class": "B.Sc in Software Engineer",
+            "passing_year": "2019",
+            "address": "Rajapur, Harta, Wazirpur, Barisal",
+            "mobile":["01917784210","01617784210","01714853911"],
+            "email": ["amiamitswe@gmail.com","amiamitswe@yahoo.com","amiamitswe@hotmail.com"],
+            "img_url": "https://avatars0.githubusercontent.com/u/30245543?s=400&v=4"
+        }
+    ]
+}
+
