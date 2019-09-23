@@ -59,33 +59,35 @@
             ]
         }
     ],
-    "users": [
-        {
-            "id": "1",
-            "name": "Amit",
-            "job": "software engineer"
-        },
-        {
-            "id": "2",
-            "name": "Abir",
-            "job": "Web engineer"
-        },
-        {
-            "id": "3",
-            "name": "Manoj",
-            "job": "Honers"
-        }
-    ],
-    "company": [
-        {
-            "id": "1",
-            "name": "OIT"
-        },
-        {
-            "id": "2",
-            "name": "OIT-2"
-        }
-    ],
+    "user_company": {
+    	"users": [
+	        {
+	            "id": "1",
+	            "name": "Amit",
+	            "job": "software engineer"
+	        },
+	        {
+	            "id": "2",
+	            "name": "Abir",
+	            "job": "Web engineer"
+	        },
+	        {
+	            "id": "3",
+	            "name": "Manoj",
+	            "job": "Honers"
+	        }
+	    ],
+	    "company": [
+	        {
+	            "id": "1",
+	            "name": "OIT"
+	        },
+	        {
+	            "id": "2",
+	            "name": "OIT-2"
+	        }
+	    ]
+	},
     "quots": [
         {
             "writer": "Thomas Edison",
