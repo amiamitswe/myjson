@@ -204,6 +204,7 @@
         {
             "name": "Amit Samadder",
             "class": "B.Sc Engineer",
+	    "group": "Scnice",
             "passing_year": "2018",
             "address": "Rajapur, Harta, Wazirpur, Barisal",
             "mobile": [
@@ -221,6 +222,7 @@
         {
             "name": "Abir Samadder",
             "class": "B.Sc in Software Engineer",
+	    "group": "Scnice",
             "passing_year": "2019",
             "address": "Rajapur, Harta, Wazirpur, Barisal",
             "mobile": [
