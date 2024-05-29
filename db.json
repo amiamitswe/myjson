@@ -1,0 +1,247 @@
+{
+  "myInfoDetails": [
+    {
+      "myInfo": {
+        "name": "Amit Samadder (Abir)",
+        "age": "24",
+        "dob": "25-Dec-1994",
+        "profession": "WEB designer and developer",
+        "PermanentAddress": "Rajapur, Harta, Wazirpur, Barisal, 8222",
+        "PresentAddress": "65 West Shaalibag, Mirpur-1"
+      },
+      "parentInfo": {
+        "fatherName": "Makhan Lal Samadder",
+        "fOccupation": "Teacher",
+        "motherName": "Lakshmi Rani Samadder",
+        "mOccupation": "House Wife"
+      },
+      "myContact": {
+        "mobile1": "01917784210",
+        "mobile2": "01714853911",
+        "email1": "amiamitswe@gmail.com",
+        "email2": "amitworkatoffice@gmail.cm"
+      },
+      "workingWith": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "jQuery",
+        "JSON",
+        "PSD to HTML",
+        "React JS",
+        "Bootstrap",
+        "Materialize CSS"
+      ],
+      "workingEnvironment": {
+        "language": "JavaScript",
+        "library": "React JS",
+        "database": "mySQL",
+        "operatingSystem": ["ubuntu", "windows"],
+        "codeEditor": ["VS code", "Sublime TEXT", "Atom", "Web Strom"]
+      },
+      "currentWorkAt": ["Work mySelf", "Omicron IT"],
+      "hobbies": [
+        "Watching Movies",
+        "Listining Music",
+        "Photography",
+        "Traveling"
+      ]
+    }
+  ],
+  "user_company": {
+    "users": [
+      {
+        "id": "1",
+        "name": "Amit",
+        "job": "software engineer"
+      },
+      {
+        "id": "2",
+        "name": "Abir",
+        "job": "Web engineer"
+      },
+      {
+        "id": "3",
+        "name": "Manoj",
+        "job": "Honers"
+      }
+    ],
+    "company": [
+      {
+        "id": "1",
+        "name": "OIT"
+      },
+      {
+        "id": "2",
+        "name": "OIT-2"
+      }
+    ]
+  },
+  "quots": [
+    {
+      "writer": "Thomas Edison",
+      "title": "Genius is one percent inspiration and ninety-nine percent perspiration."
+    },
+    {
+      "writer": "Yogi Berra",
+      "title": "You can observe a lot just by watching."
+    },
+    {
+      "writer": "Abraham Lincoln",
+      "title": "A house divided against itself cannot stand."
+    },
+    {
+      "writer": "Johann Wolfgang von Goethe",
+      "title": "Difficulties increase the nearer we get to the goal."
+    },
+    {
+      "writer": "Byron Pulsifer",
+      "title": "Fate is in your hands and no one elses"
+    },
+    {
+      "writer": "Lao Tzu",
+      "title": "Be the chief but never the lord."
+    },
+    {
+      "writer": "Carl Sandburg",
+      "title": "Nothing happens unless first we dream."
+    },
+    {
+      "writer": "Aristotle",
+      "title": "Well begun is half done."
+    },
+    {
+      "writer": "Yogi Berra",
+      "title": "Life is a learning experience, only if you learn."
+    },
+    {
+      "writer": "Margaret Sangster",
+      "title": "Self-complacency is fatal to progress."
+    },
+    {
+      "writer": "Buddha",
+      "title": "Peace comes from within. Do not seek it without."
+    },
+    {
+      "writer": "Byron Pulsifer",
+      "title": "What you give is what you get."
+    },
+    {
+      "writer": "Iris Murdoch",
+      "title": "We can only learn to love by loving."
+    },
+    {
+      "writer": "Karen Clark",
+      "title": "Life is change. Growth is optional. Choose wisely."
+    },
+    {
+      "writer": "Wayne Dyer",
+      "title": "You'll see it when you believe it."
+    },
+    {
+      "writer": "Lao Tzu",
+      "title": "To lead people walk behind them."
+    },
+    {
+      "writer": "William Shakespeare",
+      "title": "Having nothing, nothing can he lose."
+    },
+    {
+      "writer": "Henry J. Kaiser",
+      "title": "Trouble is only opportunity in work clothes."
+    },
+    {
+      "writer": "Publilius Syrus",
+      "title": "A rolling stone gathers no moss."
+    },
+    {
+      "writer": "Napoleon Hill",
+      "title": "Ideas are the beginning points of all fortunes."
+    },
+    {
+      "writer": "Donald Trump",
+      "title": "Everything in life is luck."
+    },
+    {
+      "writer": "Lao Tzu",
+      "title": "Doing nothing is better than being busy doing nothing."
+    },
+    {
+      "writer": "Benjamin Spock",
+      "title": "Trust yourself. You know more than you think you do."
+    },
+    {
+      "writer": "Confucius",
+      "title": "Study the past, if you would divine the future."
+    },
+    {
+      "writer": "Sigmund Freud",
+      "title": "From error to error one discovers the entire truth."
+    },
+    {
+      "writer": "Benjamin Franklin",
+      "title": "Well done is better than well said."
+    },
+    {
+      "writer": "Ella Williams",
+      "title": "Bite off more than you can chew, then chew it."
+    }
+  ],
+
+  "sms": {
+    "C_Student": [
+      {
+        "id": 1,
+        "name": "Amit Samadder",
+        "class": "B.Sc Engineer",
+        "group": "Scnice",
+        "passing_year": "2018",
+        "address": "Rajapur, Harta, Wazirpur, Barisal",
+        "mobile": ["01917784210", "01617784210", "01714853911"],
+        "email": [
+          "amiamitswe@gmail.com",
+          "amiamitswe@yahoo.com",
+          "amiamitswe@hotmail.com"
+        ],
+        "img_url": "http://nw.jobsbd.com/images/jobseeker/resume/1521124724-398677.jpg?rand=1560766388"
+      },
+      {
+        "id": 2,
+        "name": "Abir Samadder",
+        "class": "B.Sc in Software Engineer",
+        "group": "Scnice",
+        "passing_year": "2019",
+        "address": "Rajapur, Harta, Wazirpur, Barisal",
+        "mobile": ["01917784210", "01617784210", "01714853911"],
+        "email": [
+          "amiamitswe@gmail.com",
+          "amiamitswe@yahoo.com",
+          "amiamitswe@hotmail.com"
+        ],
+        "img_url": "https://avatars0.githubusercontent.com/u/30245543?s=400&v=4"
+      },
+      {
+        "id": 3,
+        "name": "Abir Samadder Amit",
+        "class": "B.Sc in Software Engineer",
+        "group": "Scnice",
+        "passing_year": "2019",
+        "address": "Rajapur, Harta, Wazirpur, Barisal",
+        "mobile": ["01917784210", "01617784210", "01714853911"],
+        "email": [
+          "amiamitswe@gmail.com",
+          "amiamitswe@yahoo.com",
+          "amiamitswe@hotmail.com"
+        ],
+        "img_url": "https://img.freepik.com/free-vector/logo-with-abstract-human-form_1032-23.jpg?size=338&ext=jpg"
+      }
+    ],
+
+    "A_Student": [
+      {
+        "id": "1",
+        "name": "Amit"
+      }
+    ]
+  }
+}
